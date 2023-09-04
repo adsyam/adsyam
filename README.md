@@ -166,13 +166,13 @@
 </a>
 </div>
   <p align="center">
-    <img style="margin-left: 10px;"
-      align="center"
+    <img
+      align="center" width="355px"
       src="https://github-readme-streak-stats.herokuapp.com/?user=adsyam&theme=midnight-purple&hide_border=false" 
       alt="adsyam"
     />
     <img
-      align="center" height="195px"
+      align="center" height="195px" width="300px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsyam&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
       alt="adsyam"
     />
