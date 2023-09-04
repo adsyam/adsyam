@@ -12,6 +12,14 @@
       height="30"
       width="40"
   /></a>
+  <a href="#" target="_blank" rel="noopener"
+    ><img
+      align="center"
+      src="https://www.svgrepo.com/show/353655/discord-icon.svg"
+      alt="ads.yamss"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
