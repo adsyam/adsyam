@@ -165,9 +165,9 @@
   />
 </a>
 </div>
-  <p  align="center">
+  <p>
     <img
-      align="center" width="100%"
+      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsyam&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
       alt="adsyam"
     />
