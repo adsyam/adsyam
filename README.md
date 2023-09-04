@@ -165,9 +165,14 @@
   />
 </a>
 </div>
-  <p>
-    <img
+  <p align="center">
+    <img style="margin-left: 10px;"
       align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=adsyam&theme=midnight-purple&hide_border=false" 
+      alt="adsyam"
+    />
+    <img
+      align="center" height="195px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsyam&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
       alt="adsyam"
     />
