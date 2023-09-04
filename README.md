@@ -156,7 +156,7 @@
     height="40"
   />
 </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noopener"">
+<a href="https://www.mysql.com/" target="_blank" rel="noopener">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
     alt="mysql"
@@ -165,10 +165,10 @@
   />
 </a>
 </div>
-  <p>
+  <p  align="center">
     <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=adsyam&show_icons=true&locale=en&layout=compact"
+      align="center" width="100%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsyam&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
       alt="adsyam"
     />
   </p>
