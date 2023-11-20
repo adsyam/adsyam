@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yambaoadrianne@gmail.com**
 
-- ⚡ Fun fact **I like learning every technology in-depth with the help of courses**
+- ⚡ Fun fact **I like learning every technology in-depth with the help of courses such as Udemy**
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a href="https://linkedin.com/in/adrianne-yambao" target="blank">
