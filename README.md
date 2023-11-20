@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrianne Yambao</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 🌱 I’m currently learning **Back-end in-depth, and also looking to learn other frameworks**
+- 🌱 I’m currently learning **Back-end in-depth, and also looking to learn other frameworks, also looking to learn Jest**
 
 - 👯 I’m looking to collaborate on **any projects**
 
