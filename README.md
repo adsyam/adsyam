@@ -124,8 +124,32 @@ frameworks**
   <a href="https://supabase.com/docs" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"
-      alt="postman"
+      alt="supabase"
       width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://expressjs.com/en/4x/api.html" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
+      alt="express"
+      width="100"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png"
+      alt="mongodb"
+      width="100"
       height="40"
     />
   </a>
