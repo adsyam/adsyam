@@ -5,7 +5,7 @@
 frameworks**
 - 👯 I’m looking to collaborate on **any projects**
 - 👨‍💻 All of my projects are available here at my github and **adsyam.vercel.app**
-- 📫 How to reach me **yambaoadrianne@gmail.com**
+- 📫 How to reach me **...**
 - ⚡ Fun fact **I like learning every technology in-depth with the help of courses such as Udemy**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
